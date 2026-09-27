@@ -2,4 +2,4 @@
 SNHU Computer Science Capstone
 
 ## Code Review
-[![Watch the video](https://youtube.com)]([https://youtube.com](https://youtu.be/PxmpgpeLgCo))
+[![Watch the video](https://youtube.com)](https://www.youtube.com/watch?v=PxmpgpeLgCo)
